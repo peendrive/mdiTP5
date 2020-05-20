@@ -46,8 +46,6 @@ def kaprekar(numero,bucles):
         
 pass
 
-
-
 bucles=0
 print("Ingrese un numero :")
 numero=input()
